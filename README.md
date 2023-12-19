@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi! I am Axel Resnik</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/axelresnik/">
+  <a href="https://www.linkedin.com/in/axelresnik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/AxelResnik">
+  <a href="https://github.com/AxelResnik" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -25,7 +25,7 @@
 - **Education:** Batchelor in Global Business Management & Full Stack Web Development Bootcamp
 
 ### 💼 Professional Experience
-- **WalkMe** Progressed from Tier 1 Technical Support Team Leader to Customer Success Manager. Focused on customer data analysis, digital transformations, and technical solutions.
+- **WalkMe** Progressed from Tier 1 Technical Support Analyst to Team Leader & Customer Success Manager. Focused on customer data analysis, digital transformations, and technical solutions.
 
 ### 🚧 Projects
 Under construction!
